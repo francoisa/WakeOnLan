@@ -1,0 +1,1 @@
+WakeOnLan 6CF04977F0A4
